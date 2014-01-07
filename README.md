@@ -3,7 +3,7 @@ SetShark, a bridge between Setlist.FM and Grooveshark
 
 Requires:
 - A VIP user account (paid users)
-- An API-key
+- An API-key see http://developers.grooveshark.com/ 
 
 How to use:
 - Go to Setlist.FM
