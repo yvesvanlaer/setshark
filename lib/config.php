@@ -5,9 +5,10 @@
   * @author Yves Van Laer
   * @copyright 2013
   */
-
-  $myKey            = "setlist_bridge"; // Grooveshark api app
-  $mySecret         = "43023fc5f9ff70b6804f326f17b4deab"; // Grooveshark api secret
+  
+  /* Get your key and secret on developers.grooveshark.com/ */
+  $myKey            = "xxxxxxxxx"; // Grooveshark api app
+  $mySecret         = "xxxxxxxxx"; // Grooveshark api secret
   $myUserLogin      = "xxxxxxxxx"; // Grooveshark user login
   $myUserPassword   = "xxxxxxxxx"; // Grooveshark user password
 
